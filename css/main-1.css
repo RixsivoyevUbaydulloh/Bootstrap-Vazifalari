@@ -1,0 +1,26 @@
+.raw-1{
+    background-color: orangered;
+    text-align: center;
+    height: 60px;
+}
+.raw-2{
+    background-color: red;
+    color: white;
+    padding: 2px;
+    position: relative;
+    top: -10px;
+    border: 1px solid white;
+    text-align: center;
+    height: 30px;
+}
+.raw-0{
+    padding: 10px;
+    background-color: orangered;
+    text-align: center;
+    height: 30px;
+}
+.re{
+    position: relative;
+    top: 10px;
+    border-top: 15px solid orangered;
+}

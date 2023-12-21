@@ -1,0 +1,55 @@
+p{
+    font-size: 40px;
+    position: relative;
+    top: 5px;
+}
+.bxn-1{
+    margin-top: 0;
+    font-size: 25px;
+}
+.bxn-2{
+    margin-top: -20px;
+    font-size: 25px;
+}
+.bxn-3{
+    color: #218838;
+    position: relative;
+    top: 5px;
+}
+.bxn-4{
+    color: #0062cc;
+    position: relative;
+    top: -10px;
+}
+.bnm{
+    position: relative;
+    right: 20px;
+}
+.bnm-2{
+    position: relative;
+    right: 20px;
+}
+.bnm-3{
+    background-image: url("../rasmlar/tick.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: 160px;
+}
+.bnm-4{
+    background-image: url("../rasmlar/ex.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 165px;
+}
+.bnm-5{
+    background-image: url("../rasmlar/search.svg");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 165px;
+}
+.bnm-6{
+    background-image: url("../rasmlar/left.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 165px;
+}

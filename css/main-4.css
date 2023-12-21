@@ -1,0 +1,46 @@
+button{
+    width: 100px;
+    position: relative;
+    left: 700px;
+    border: 1px solid white;
+}
+.rzw-1{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.btn-1{
+    color: white;
+    background-color: springgreen;
+    background-image: none;
+    border-color: springgreen;
+    border-radius: 30px;
+}
+.btn-3{
+    color: springgreen;
+    background-color: transparent;
+    background-image: none;
+    border-color: springgreen;
+    border-radius: 30px;
+}
+.btn-2{
+    color: white;
+    background-color: mediumpurple;
+    background-image: none;
+    border-color: mediumpurple;
+    border-radius: 30px;
+}
+.btn-4{
+    color: mediumpurple;
+    background-color: transparent;
+    background-image: none;
+    border-color: mediumpurple;
+    border-radius: 30px;
+}
+.btn-5{
+    border-radius: 30px;
+}
+.rxw-1{
+    position: relative;
+    top: 20px;
+    right: 700px;
+}

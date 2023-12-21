@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main8.css">
+</head>
+<body>
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal">
+                Add Person
+            </button>
+            <div class="modal fade" id="myModal">
+                <div class="modal-dialog modal-dialog-right">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="font-weight-bold">Add Person</h3><span class="close" data-dismiss="modal">&times;</span>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">First Name</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <input type="text" id="Title" class="form-control d w-100" placeholder="First Name"><br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Last Name</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <input type="text" id="Title" class="form-control d w-100" placeholder="Last Name"><br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Gender</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <select name="" class="form-control" id="age">
+                                        <option value="1">Male</option>
+                                        <option value="2">Female</option>
+                                    </select><br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                    <div class="col-md-3">
+                                        <label for="dist" class="text-dark dd">Address</label>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <textarea name="dist" id="dist" class="form-control" placeholder="Address"></textarea><br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Date of Birth</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <input type="text" id="Title" class="form-control d w-100" placeholder="yyyy-mm-dd"><br>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Save</button>
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jQuery.min.js"></script>
+<script src="js/src/popover.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

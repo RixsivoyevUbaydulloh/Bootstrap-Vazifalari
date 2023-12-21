@@ -1,0 +1,81 @@
+body{
+    position: relative;
+    top: 100px;
+}
+.h4{
+    position: relative;
+    top: 20px;
+    font-weight: bold;
+}
+.h4:hover{
+    color: red;
+    transition: 0.5s;
+}
+.p{
+    color: grey;
+    position: relative;
+    top: 10px;
+}
+.p1{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.body1:hover{
+    color: #c8cbcf;
+    transition: 0.5s;
+}
+.p1:hover{
+    color: whitesmoke;
+}
+.p2{
+    position: relative;
+    top: 240px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.pz{
+    font-weight: bold;
+}
+.pz:hover{
+    transition: 0.5s;
+    color: red;
+}
+.pp{
+    margin-top: 410px;
+    font-weight: bold;
+    color: grey;
+}
+.xz{
+    position: relative;
+    bottom: 246px;
+    height: 245px
+}
+.px{
+    font-weight: bold;
+}
+.px:hover{
+    transition: 0.5s;
+    color: red;
+}
+.ppp{
+    margin-top: 460px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.ppp:hover{
+    color: red;
+    transition: 0.5s;
+}
+.body2{
+    padding-top: 480px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.body2:hover{
+    color: grey;
+    transition: 0.5s;
+}
+

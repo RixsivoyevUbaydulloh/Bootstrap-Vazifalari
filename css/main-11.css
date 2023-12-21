@@ -1,0 +1,12 @@
+.text-1{
+    position: relative;
+    left: 500px;
+}
+.text{
+    font-size: 30px;
+    text-align: center;
+}
+.text-2{
+    position: relative;
+    left: 45%;
+}

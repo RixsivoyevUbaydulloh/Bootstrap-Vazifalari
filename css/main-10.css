@@ -1,0 +1,108 @@
+.unit{
+    width: 800px;
+    border: 2px solid purple !important;
+}
+.text{
+    color: white;
+    margin-left: 560px !important;
+    background-color: purple;
+}
+.text11{
+    color: white;
+    margin-left: 90px !important;
+    background-color: #c866ff;
+}
+.unit1{
+    width: 300px !important;
+    height: 90px;
+    margin-left: 270px !important;
+    border: 2px solid purple !important;
+}
+.unit2{
+    width: 380px;
+    height: 100px;
+    margin-top: -250px;
+    border: 2px solid #007bff !important;
+}
+.unit3{
+    width: 380px;
+    margin-left: -150px;
+    margin-top: -250px;
+    height: 185px;
+    border: 2px solid red !important;
+}
+.unit4{
+    margin-left: -100px;
+}
+.text button{
+    margin-left: 100px;
+}
+.text1 button{
+    margin-left: 150px;
+}
+.text1{
+    height: 50px!important;
+
+}
+.text2 button{
+    margin-left: 80px;
+}
+.text2{
+    height: 50px!important;
+}
+.text3 button{
+    margin-left: 110px;
+}
+.unit6{
+    margin-top: -100px;
+    height: 200px!important;
+    width: 380px;
+    border: 2px solid limegreen !important;
+}
+.text5 button{
+    margin-left: 00px;
+}
+.unit7{
+    margin-top: -100px;
+    width: 380px!important;
+    height: 200px;
+    margin-left: 40px;
+    border: 2px solid limegreen !important;
+}
+.edit1{
+    margin-left: -100px;
+}
+input{
+    width: 350px!important;
+}
+.edit{
+    margin-left: -60px;
+}
+.unit8{
+    width: 300px;
+    margin-left: 80px;
+    margin-top: -100px;
+    height: 200px;
+    border: 2px solid limegreen !important;
+}
+.text4{
+    height: 50px;
+}
+p{
+    position: relative;
+    top: -10px;
+    left: 20px;
+}
+.qo\'taq{
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+
+
+
+
+

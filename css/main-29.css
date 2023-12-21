@@ -1,0 +1,43 @@
+.tab{
+    position: relative;
+    top: -15px;
+}
+.left1{
+    position: relative;
+    left: 134px;
+}
+.left2{
+    position: relative;
+    left: 112px;
+}
+.left3{
+    position: relative;
+    left: 95px;
+}
+.left4{
+    position: relative;
+    left: 140px;
+}
+.left5{
+    position: relative;
+    left: 140px;
+}
+.top{
+    position: relative;
+    top: 5px;
+}
+.button1{
+    position: relative;
+    left: 150px;
+    height: 35px;
+    background-color: #19a9c3;
+    border: 0;
+}
+.button2{
+    position: relative;
+    left: 150px;
+    height: 35px;
+}
+.border{
+    border: 1px solid red !important;
+}

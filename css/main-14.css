@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+}
+.text-2{
+    position: relative;
+    top: -20px;
+    text-align: center;
+}
+.text{}

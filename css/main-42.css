@@ -1,0 +1,16 @@
+body{
+    background-color: dodgerblue;
+}
+.bg:before{
+    content: '';
+    border: 20px solid transparent;
+    border-top-color: white;
+    position: absolute;
+    left: 40%;
+    bottom: 0;
+    transform: rotate(180deg);
+
+}
+.br{
+    box-shadow: 0 -2px 5px white;
+}

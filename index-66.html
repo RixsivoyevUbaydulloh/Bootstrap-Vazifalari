@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main11.css">
+</head>
+<body>
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+                Register
+            </button>
+            <div class="modal fade" id="myModal">
+                <div class="modal-dialog modal-dialog-right">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h6 class="font-weight-bold">Register</h6><span class="close" data-dismiss="modal">&times;</span>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Name</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <input type="text" id="Title" class="form-control d w-100" style="border: 2px solid red;" placeholder="">
+                                    <p style="color: red;font-size: 12px;font-weight: bold">The name field is required</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">E-Mail Address</label>
+                                </div>
+                                <div class="col-md-8">
+                                    <input type="text" id="Title" class="form-control d1"  placeholder="some@gmail.com"><br>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Password</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <input type="text" id="Title" class="form-control" style="border: 2px solid red;"  placeholder="....">
+                                    <p style="color: red;font-size: 12px;font-weight: bold">The password must be at least 8 <br> characters.</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <label for="Title" class="text-secondary dd mt-1 text-dark">Confirm Pasword</label>
+                                </div>
+                                <div class="col-md-8">
+                                    <input type="text" id="Title" class="form-control d w-100 d1"  placeholder=""><br>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Register</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jQuery.min.js"></script>
+<script src="js/src/popover.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

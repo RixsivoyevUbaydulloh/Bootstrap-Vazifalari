@@ -1,0 +1,24 @@
+.text1{
+    margin-left: 650px;
+    margin-top: -78px;
+}
+.text{
+    width: 1000px;
+    height: 70px;
+    background-color: #002235;
+}
+h1{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: white;
+}
+.table{
+    width: 1000px;
+}
+.pdd{
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 12px;
+}
+
+

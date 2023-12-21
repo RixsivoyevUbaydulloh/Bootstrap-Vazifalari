@@ -1,0 +1,83 @@
+.first{
+    background-image: url("../rasmlar/rasm.jfif");
+    background-size: 280px;
+    background-repeat: no-repeat;
+    width: 253px;
+    height: 200px;
+}
+.second{
+    background-image: url("../rasmlar/rasm1.jfif");
+    background-size: 280px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 253px;
+    height: 200px;
+
+}
+.third{
+    background-image: url("../rasmlar/rasm2.jfif");
+    background-size: 345px;
+    background-position: -10px;
+    background-repeat: no-repeat;
+    width: 253px;
+    height: 203px;
+}
+.spans{
+    margin-top: -20px;
+}
+.fourth{
+   position: relative;
+    background: linear-gradient(70deg,white,white);
+    background-size: 400px;
+    box-shadow: 0 0 100px black inset;
+}
+.fifth{
+    background-image: url("../rasmlar/rasm4.jfif");
+    width: 253px;
+    height: 200px;
+}
+.sixth {
+    background-image: url("../rasmlar/rasm5.jfif");
+    background-repeat: no-repeat;
+    background-size: 420px;
+    background-position: -80px;
+    width: 253px;
+    height: 200px;
+    position: relative;
+}
+.seventh{
+    background-image: url("../rasmlar/rasm6.jfif");
+    background-repeat: no-repeat;
+    background-size: 320px;
+    background-position: top;
+    width: 253px;
+    height: 200px;
+}
+.eighth{
+    background-image: url("../rasmlar/rasm7.jfif");
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position: -45px;
+    width: 253px;
+    height: 200px;
+}
+.spans1{
+    margin-top: -5px;
+}
+.xx{
+    font-size: 20px;
+}
+.sz{
+    position: relative;
+    top: 15px;
+}
+.js{
+    position: relative;
+    left: 55px;
+    bottom: 10px;
+    margin-top: 50px;
+}
+.sp{
+    position: relative;
+    bottom: 150px !important;
+}
